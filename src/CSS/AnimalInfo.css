@@ -1,0 +1,16 @@
+.animalInfo-img {
+  width: 30%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.animal-info-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.longText {
+  line-height: 1.9;
+  max-width: 85%;
+}
